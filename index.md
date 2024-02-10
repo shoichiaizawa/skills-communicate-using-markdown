@@ -25,3 +25,9 @@ const doge = {
   comment: 'wow',
 };
 ```
+
+## A task list
+
+- [ ] Prepare for GitHub Foundations certification exam
+- [ ] Pass the exam
+- [ ] Be happy with flying colours
